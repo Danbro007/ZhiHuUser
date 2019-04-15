@@ -32,7 +32,6 @@ class ZhihuSpider(scrapy.Spider):
         for field in item.fields:
             if field in res.keys():
                 item[field] = res.get(field)
-        print(item)
         yield item
         yield Request(
             url=self.follows_url.format(user=item["url_token"], follows_query=self.follows_query, limit=20, offset=0),
