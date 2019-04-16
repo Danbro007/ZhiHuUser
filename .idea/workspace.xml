@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26ba5864-b6d8-436f-9398-cbe2b5807733" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhihuuser/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhihuuser/pipelines.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zhihuuser/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhihuuser/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +21,8 @@
       <file leaf-file-name="zhihu.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zhihuuser/spiders/zhihu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
-              <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+            <state relative-caret-position="120">
+              <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
               <folding>
                 <element signature="e#24#35#0" expanded="true" />
               </folding>
@@ -28,11 +30,29 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhihuuser/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/zhihuuser/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+            <state relative-caret-position="125">
+              <caret line="94" column="24" lean-forward="true" selection-start-line="94" selection-start-column="24" selection-end-line="94" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crawler.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Program Files/Python36/Lib/site-packages/scrapy/crawler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="81" selection-start-line="81" selection-end-line="81" />
             </state>
           </provider>
         </entry>
@@ -61,6 +81,7 @@
         <option value="$PROJECT_DIR$/zhihuuser/items.py" />
         <option value="$PROJECT_DIR$/zhihuuser/test.py" />
         <option value="$PROJECT_DIR$/zhihuuser/spiders/zhihu.py" />
+        <option value="$PROJECT_DIR$/zhihuuser/pipelines.py" />
         <option value="$PROJECT_DIR$/zhihuuser/settings.py" />
       </list>
     </option>
@@ -75,10 +96,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
     <option name="width" value="981" />
-    <option name="height" value="1020" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -94,6 +115,11 @@
           <expand>
             <path>
               <item name="zhihuuser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhihuuser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhihuuser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhihuuser" type="462c0819:PsiDirectoryNode" />
               <item name="zhihuuser" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -169,8 +195,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3291592" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4283154" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2586904" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28494623" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26839128" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -193,6 +219,23 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/zhihuuser/spiders/zhihu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhihuuser/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1840">
+          <caret line="92" column="58" lean-forward="true" selection-start-line="92" selection-start-column="58" selection-end-line="92" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/zhihuuser/spiders/zhihu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
@@ -309,30 +352,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zhihuuser/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zhihuuser/test.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/zhihuuser/spiders/zhihu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        <state relative-caret-position="120">
+          <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
           <folding>
             <element signature="e#24#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Program Files/Python36/Lib/site-packages/scrapy/crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhihuuser/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/zhihuuser/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+        <state relative-caret-position="125">
+          <caret line="94" column="24" lean-forward="true" selection-start-line="94" selection-start-column="24" selection-end-line="94" selection-end-column="24" />
         </state>
       </provider>
     </entry>
