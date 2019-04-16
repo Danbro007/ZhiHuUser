@@ -90,7 +90,8 @@ AUTOTHROTTLE_ENABLED = True
 # HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 SCHEDULER = "scrapy_redis.scheduler.Scheduler"
 DUPEFILTER_CLASS = "scrapy_redis.dupefilter.RFPDupeFilter"
-REDIS_HOST = 'localhost'
-REDIS_PORT = 6379
+REDIS_URL = 'redis://root:shan52902003@192.168.0.128:6379'
+
+
 
 
